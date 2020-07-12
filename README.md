@@ -1,2 +1,2 @@
 # PictureBed
-My picture bed used for blog and etc.
+个人图床/My picture bed used for blog and etc.
